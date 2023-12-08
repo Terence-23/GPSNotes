@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GPS notes</string>
+    <string name="notes_label">Input for the note</string>
+    <string name="SaveText">Save</string>
+</resources>
